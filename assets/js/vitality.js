@@ -86,7 +86,7 @@
     // Formstone Background - Video Background Settings
     $("header.video").background({
         source: {
-            poster: "assets/img/bg-mobile-fallback.png",
+            poster: "assets/img/bg-mobile-fallback.jpg",
             mp4: "assets/mp4/camera.mp4"
         }
     });
